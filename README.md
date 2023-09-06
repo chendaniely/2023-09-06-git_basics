@@ -12,3 +12,6 @@
 - `log`: this will show you this history of commits
   - if you don't get your promt back, press the letter `q` on your computer
   - you will see a colon on the bottom left of the terminal to let you know you need to do this
+
+- `push origin main`: takes local history and pushes to remote
+- `pull origin main`: takes remote content and brings it down to local
